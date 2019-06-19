@@ -2,6 +2,8 @@
 """
 Created on Wed Jun 19 11:23:07 2019
 
+python ama o usuário
+
 @author: 42895538859
 """
 
